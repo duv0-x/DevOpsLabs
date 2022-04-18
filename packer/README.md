@@ -1,2 +1,2 @@
-# terralabs
-Prácticas de Terraform
+# Packer
+Prácticas con Packer
