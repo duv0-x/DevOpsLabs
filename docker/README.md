@@ -1,3 +1,3 @@
-# Práctica 2: Docker
+# Prácticas con Docker
 
-Creación de una imagen (AMI) en AWS a partir de una instancia EC2 usando Packer.
+* simple-nginx/ - Levanta un contenedor con nginx.
